@@ -1,4 +1,4 @@
-# CSS_ANIMATIONS
+# Css Animations
 
 - In this project im doing some pure CSS animations
 - This can help myself to improve skills
