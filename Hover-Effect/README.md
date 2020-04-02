@@ -1,7 +1,5 @@
-# Css Animations
+### Hover Effect
 
-- In this project im doing some pure CSS animations
-- This can help myself to improve skills
-- This can help you with some ideas
+Click in the image to watch the video
 
-### Enjoy :)
+[![Watch the video](https://i.imgur.com/17jipRG.png)](https://www.youtube.com/watch?v=qAcS7kr_ywk)
